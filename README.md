@@ -9,3 +9,4 @@ image manifold. Where in the paper we achieve to implement'The Polyakov Action M
 framework to denoise and deblur color images.
 
 # Content
+In *Efficient Color Image Processing.pdf* we have a short report on the paper, the implementation results and conclutions. On the other hand *Efficient Color Image Processing.ipynb* is the implementation on greyscaled images and color images.
